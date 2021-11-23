@@ -74,28 +74,42 @@
 <ul>
   <ul>
     <h4>Nível 1 - Básico</h4>
-    <li>Orientação à objetos e primordial</li>
+    <li>Escolha uma linguagem de programação, e pratique bastante, até perceber que já domina o suficiente</li>
+    <li>Utilize bastante o exercism</li>
+    <li>Orientação à objetos é primordial</li>
     <li>Terminal, seja ele linux, mac, windows (cmd), ou relacionado</li>
-    <li>IDE (mesmo que vc não utilize uma)</li>
-    <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
-    <li></li>
   </ul>
   
   <ul>
     <h4>Nível 2 - Junior</h4>
     <li>Node.js, PHP, Elixir ou qualquer outro</li>
+    <li>Conhecimento avançado em JSON e como utilizá-lo em sua linguagem</li>
     <li>Banco de dados relacionais, como: mysql, postgres, etc...</li>
-    <li>Conhecimento em protocolos... TCP, IP, UDP, etc...</li>
-    <li></li>
+    <li>Banco de dados não relacinais como MongoDB</li>
+    <li>IDE (mesmo que vc não utilize uma)</li>
+    <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
+    <li>Protocolos... TCP, IP, UDP, etc...</li>
+    <li>Conhecimento em apache, nginx ou relacionado</li>
+    <li>Utilização de um ou mais frameworks Backend como: Laravel, Ruby on Rails, etc...</li>
+    <li>Testes automatizados</li>
   </ul>
   
   <ul>
     <h4>Nível 3 - Pleno</h4>
-    <li></li>
+    <li>Ter conhecimentos avançados em banco de dados</li>
+    <li>Ter bastante tempo de experiência e resolução de bugs no Backend</li>
+    <li>Experiência bastante experiência com redes de computadores</li>
+    <li>Conhecimento avançado em servidores de hospedagem</li>
+    <li>Conhecimento avançado em ssh e conexões remotas</li>
   </ul>
   
   <ul>
     <h4>Nível 4 - Sênior</h4>
+    <li>Conhecimento avançado em hardware</li>
+    <li>Conhecimento de básico à avançado em frontend</li>
+    <li>Conhecimento geral em gerenciamento de processos</li>
+    <li></li>
+    <li></li>
     <li></li>
   </ul>
   
@@ -104,4 +118,3 @@
     <li></li>
   </ul>
 </ul>
-
