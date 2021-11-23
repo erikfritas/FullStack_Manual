@@ -21,6 +21,7 @@
     <li>CSS3</li>
     <li>JavaScript (JS/ECMAScript)</li>
   </ul>
+  
   <ul>
     <h4>Nível 2 - Desenvolvedor Frontend</h4>
     <li>Sass ou Less</li>
@@ -28,6 +29,7 @@
     <li>Webpack ou gulp, ou os dois</li>
     <li>Um framework CSS, tipo Bootstrap ou Tailwind</li>
   </ul>
+  
   <ul>
     <h4>Nível 3 - Desenvolvedor Frontend Junior</h4>
     <li>Node.js ou PHP</li>
@@ -37,6 +39,7 @@
     <li>Domínio básico de SVGs</li>
     <li>Monetização de websites</li>
   </ul>
+  
   <ul>
     <h4>Nível 4 - Desenvolvedor Frontend Pleno</h4>
     <li>UX e UI</li>
@@ -44,6 +47,7 @@
     <li>Figma ou outro relacionado</li>
     <li>Notion, Trello ou relacionado</li>
   </ul>
+  
   <ul>
     <h4>Nível 5 - Desenvolvedor Frontend Sênior</h4>
     <li>Domínio avançado de SVGs</li>
@@ -54,6 +58,7 @@
     <li>Ferramentas de teste de UI como PhantomCSS ou relacionado</li>
     <li>Ferramentas de segurança como: DOMPurify ou jsxss</li>
   </ul>
+  
   <ul>
     <h4>Nível 6 - Desenvolvedor Frontend Sênior Avançado</h4>
     <li>Criação de plugins, bibliotecas e/ou frameworks avançados</li>
@@ -74,8 +79,8 @@
     <li>IDE (mesmo que vc não utilize uma)</li>
     <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
     <li></li>
-    <li></li>
   </ul>
+  
   <ul>
     <h4>Nível 2 - Junior</h4>
     <li>Node.js, PHP, Elixir ou qualquer outro</li>
@@ -83,14 +88,17 @@
     <li>Conhecimento em protocolos... TCP, IP, UDP, etc...</li>
     <li></li>
   </ul>
+  
   <ul>
     <h4>Nível 3 - Pleno</h4>
     <li></li>
   </ul>
+  
   <ul>
     <h4>Nível 4 - Sênior</h4>
     <li></li>
   </ul>
+  
   <ul>
     <h4>Nível 5 - Básico Avançado</h4>
     <li></li>
