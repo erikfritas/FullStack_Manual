@@ -1,7 +1,7 @@
 <h1 align="center">Manual FullStack</h1>
 <p align="center">📖 Manual para ser um desenvolvedor FullStack</p>
 
-<h4>** Baseado em pesquisas feitas por mim</h2>
+<h4>** No meu ponto de vista</h2>
 
 <h2>Sem mais delongas...</h2>
 <p>Um desenvolvedor FullStack nada mais é do que alguém que pode trabalhar tanto no lado do frontend, quando no do backend e até mesmo nos dois.</p>
