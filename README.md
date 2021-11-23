@@ -14,7 +14,7 @@
 <h2>Frontend</h2>
 <p>Eu busquei colocar os níveis em uma sequência, dessa forma ficará mais facil saber qual será o próximo nível.</p>
 <p>(LEMBRETE) Antes de partir para o Backend certifique-se de ter terminado pelo menos o nível 1 de Frontend...</p>
-<kbd>
+<article align="left">
   <ul>
     <h4>Nível 1 - Básico</h4>
     <li>HTML5</li>
@@ -65,7 +65,7 @@
     <li>Conhecimento de básico à avançado em backend</li>
     <li>etc... (o céu é o limite)</li>
   </ul>
-</kbd>
+</article>
 
 <hr>
 
