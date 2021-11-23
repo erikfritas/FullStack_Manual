@@ -1,4 +1,4 @@
-<h1 align="center">FullStack_Manual</h1>
+<h1 align="center">Manual FullStack</h1>
 <p>📖 Manual para ser um desenvolvedor FullStack</p>
 
 <h4>** Baseado em pesquisas feitas por mim</h2>
