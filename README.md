@@ -1,7 +1,9 @@
 <h1 align="center">Manual FullStack</h1>
 <p align="center">📖 Manual para ser um desenvolvedor FullStack</p>
 
-<h4>** No meu ponto de vista</h2>
+<h4>** No meu ponto de vista, baseado nesses sites:
+  <a href="https://roadmap.sh/backend">Backend</a> -
+  <a href="https://roadmap.sh/frontend">Frontend</a></h2>
 
 <h2>Sem mais delongas...</h2>
 <p>Um desenvolvedor FullStack nada mais é do que alguém que pode trabalhar tanto no lado do frontend, quando no do backend e até mesmo nos dois.</p>
@@ -129,10 +131,4 @@
 
 <p align="center">
   OK, agora fique tranquilo(a) que esse é só um ponto de vista meu, então pra mim o necessário para se tornar um dev FullStack Básico é ter pelo menos o nível 3 do Frontend e pelo menos o nível 2 do Backend, aí o resto vc vai saber quando chegar lá (pelo menos é o que eu acho).
-</p>
-
-<p>
-  Baseado nesses sites:
-  <a href="https://roadmap.sh/backend">Backend</a> -
-  <a href="https://roadmap.sh/frontend">Frontend</a>
 </p>
