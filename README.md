@@ -35,6 +35,7 @@
     <li>TypeScript</li>
     <li>Chart.js ou relacionado</li>
     <li>Domínio básico de SVGs</li>
+    <li>Monetização de websites</li>
   </ul>
   <ul>
     <h4>Nível 4 - Desenvolvedor Frontend Pleno</h4>
@@ -46,10 +47,18 @@
   <ul>
     <h4>Nível 5 - Desenvolvedor Frontend Sênior</h4>
     <li>Domínio avançado de SVGs</li>
+    <li>Domínio avançado de design patterns (no plural mesmo)</li>
     <li>Backend APIs como Firebase ou Backendless</li>
     <li>Ferramentas de animação como: Anime.js, Motion ou relacionado</li>
     <li>Ferramentas de teste unitário como Mocha ou relacionado</li>
     <li>Ferramentas de teste de UI como PhantomCSS ou relacionado</li>
     <li>Ferramentas de segurança como: DOMPurify ou jsxss</li>
   </ul>
+  <ul>
+    <h4>Nível 6 - Desenvolvedor Frontend Sênior Avançado</h4>
+    <li>Criação de plugins, bibliotecas e/ou frameworks avançados</li>
+    <li>Conhecimento de básico à avançado em backend</li>
+    <li>etc... (o céu é o limite)</li>
+  </ul>
 </ul>
+
