@@ -128,5 +128,5 @@
 <hr>
 
 <footer align="center">
-  OK, agora fique tranquilo(a) que no meu ponto de vista (na verdade, não é só no meu) o necessário para se tornar um dev FullStack e ter conhecimento pelo menos até o nível X do Frontend e pelo menos até o nível X do Backend
+  OK, agora fique tranquilo(a) que no meu ponto de vista (na verdade, não é só no meu) o necessário para se tornar um dev FullStack e ter pelo menos o nível 3 do Frontend e pelo menos o nível 2 do Backend.
 </footer>
