@@ -14,7 +14,7 @@
 <h2>Frontend</h2>
 <p>Eu busquei colocar os níveis em uma sequência, dessa forma ficará mais facil saber qual será o próximo nível.</p>
 <p>(LEMBRETE) Antes de partir para o Backend certifique-se de ter terminado pelo menos o nível 1 de Frontend...</p>
-<ul>
+<kbd>
   <ul>
     <h4>Nível 1 - Básico</h4>
     <li>HTML5</li>
@@ -65,13 +65,13 @@
     <li>Conhecimento de básico à avançado em backend</li>
     <li>etc... (o céu é o limite)</li>
   </ul>
-</ul>
+</kbd>
 
 <hr>
 
 <h2>Backend</h2>
 <p>Depois de ter feito ao menos o nível 1 em Frontend, agora vc tem o suficiente para iniciar o Backend</p>
-<ul>
+<kbd>
   <ul>
     <h4>Nível 1 - Básico</h4>
     <li>Escolha uma linguagem de programação, e pratique bastante, até perceber que já domina o suficiente</li>
@@ -123,7 +123,7 @@
     <li>Mais de 10 anos de experiência</li>
     <li>O céu é o limite</li>
   </ul>
-</ul>
+</kbd>
 
 <hr>
 
