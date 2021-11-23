@@ -133,7 +133,6 @@
 
 <p>
   Baseado nesses sites:
-  ---
-  <a href="https://roadmap.sh/backend">Backend</a>
+  <a href="https://roadmap.sh/backend">Backend</a> -
   <a href="https://roadmap.sh/frontend">Frontend</a>
 </p>
