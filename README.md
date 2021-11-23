@@ -130,3 +130,10 @@
 <p align="center">
   OK, agora fique tranquilo(a) que esse é só um ponto de vista meu, então pra mim o necessário para se tornar um dev FullStack Básico é ter pelo menos o nível 3 do Frontend e pelo menos o nível 2 do Backend, aí o resto vc vai saber quando chegar lá (pelo menos é o que eu acho).
 </p>
+
+<p>
+  Baseado nesses sites:
+  ---
+  <a href="https://roadmap.sh/backend">Backend</a>
+  <a href="https://roadmap.sh/frontend">Frontend</a>
+</p>
