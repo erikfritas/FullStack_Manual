@@ -62,3 +62,38 @@
   </ul>
 </ul>
 
+<hr>
+
+<h2>Backend</h2>
+<p>Depois de ter feito ao menos o nível 1 em Frontend, agora vc tem o suficiente para iniciar o Backend</p>
+<ul>
+  <ul>
+    <h4>Nível 1 - Básico</h4>
+    <li>Orientação à objetos e primordial</li>
+    <li>Terminal, seja ele linux, mac, windows (cmd), ou relacionado</li>
+    <li>IDE (mesmo que vc não utilize uma)</li>
+    <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
+    <li></li>
+    <li></li>
+  </ul>
+  <ul>
+    <h4>Nível 2 - Junior</h4>
+    <li>Node.js, PHP, Elixir ou qualquer outro</li>
+    <li>Banco de dados relacionais, como: mysql, postgres, etc...</li>
+    <li>Conhecimento em protocolos... TCP, IP, UDP, etc...</li>
+    <li></li>
+  </ul>
+  <ul>
+    <h4>Nível 3 - Pleno</h4>
+    <li></li>
+  </ul>
+  <ul>
+    <h4>Nível 4 - Sênior</h4>
+    <li></li>
+  </ul>
+  <ul>
+    <h4>Nível 5 - Básico Avançado</h4>
+    <li></li>
+  </ul>
+</ul>
+
