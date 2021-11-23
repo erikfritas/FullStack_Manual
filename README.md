@@ -78,43 +78,55 @@
     <li>Utilize bastante o exercism</li>
     <li>Orientação à objetos é primordial</li>
     <li>Terminal, seja ele linux, mac, windows (cmd), ou relacionado</li>
-  </ul>
-  
-  <ul>
-    <h4>Nível 2 - Junior</h4>
-    <li>Node.js, PHP, Elixir ou qualquer outro</li>
+    <li>Design e princípios de desenvolvimento</li>
     <li>Conhecimento avançado em JSON e como utilizá-lo em sua linguagem</li>
     <li>Banco de dados relacionais, como: mysql, postgres, etc...</li>
     <li>Banco de dados não relacinais como MongoDB</li>
+  </ul>
+  
+  <ul>
+    <h4>Nível 2 - Desenvolvedor Backend Júnior</h4>
     <li>IDE (mesmo que vc não utilize uma)</li>
     <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
     <li>Protocolos... TCP, IP, UDP, etc...</li>
     <li>Conhecimento em apache, nginx ou relacionado</li>
     <li>Utilização de um ou mais frameworks Backend como: Laravel, Ruby on Rails, etc...</li>
     <li>Testes automatizados</li>
+    <li>Desenvolvimento de APIs</li>
   </ul>
   
   <ul>
-    <h4>Nível 3 - Pleno</h4>
+    <h4>Nível 3 - Desenvolvedor Backend Pleno</h4>
+    <li>Organização dos projetos</li>
     <li>Ter conhecimentos avançados em banco de dados</li>
     <li>Ter bastante tempo de experiência e resolução de bugs no Backend</li>
     <li>Experiência bastante experiência com redes de computadores</li>
     <li>Conhecimento avançado em servidores de hospedagem</li>
     <li>Conhecimento avançado em ssh e conexões remotas</li>
+    <li>CI/CD</li>
+    <li>Search Engines</li>
   </ul>
   
   <ul>
-    <h4>Nível 4 - Sênior</h4>
-    <li>Conhecimento avançado em hardware</li>
+    <h4>Nível 4 - Desenvolvedor Backend Sênior</h4>
+    <li>Penetration Testing</li>
+    <li>Hardware</li>
     <li>Conhecimento de básico à avançado em frontend</li>
     <li>Conhecimento geral em gerenciamento de processos</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>GraphQL</li>
+    <li>Websockets</li>
+    <li>Message Brokers</li>
   </ul>
   
   <ul>
-    <h4>Nível 5 - Básico Avançado</h4>
-    <li></li>
+    <h4>Nível 5 - Desenvolvedor Backend Sênior Avançado</h4>
+    <li>Mais de 10 anos de experiência</li>
+    <li>O céu é o limite</li>
   </ul>
 </ul>
+
+<hr>
+
+<footer align="center">
+  OK, agora fique tranquilo(a) que no meu ponto de vista (na verdade, não é só no meu) o necessário para se tornar um dev FullStack e ter conhecimento pelo menos até o nível X do Frontend e pelo menos até o nível X do Backend
+</footer>
