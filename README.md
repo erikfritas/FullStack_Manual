@@ -15,23 +15,23 @@
 <p>Eu busquei colocar os níveis em uma sequência, dessa forma ficará mais facil saber qual será o próximo nível.</p>
 <p>(LEMBRETE) Antes de partir para o Backend certifique-se de ter terminado pelo menos o nível 1 de Frontend...</p>
 <article align="left">
+  <h4>Nível 1 - Básico</h4>
   <ul>
-    <h4>Nível 1 - Básico</h4>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript (JS/ECMAScript)</li>
   </ul>
   
+  <h4>Nível 2 - Desenvolvedor Frontend</h4>
   <ul>
-    <h4>Nível 2 - Desenvolvedor Frontend</h4>
     <li>Sass ou Less</li>
     <li>npm ou yarn</li>
     <li>Webpack ou gulp, ou os dois</li>
     <li>Um framework CSS, tipo Bootstrap ou Tailwind</li>
   </ul>
   
+  <h4>Nível 3 - Desenvolvedor Frontend Junior</h4>
   <ul>
-    <h4>Nível 3 - Desenvolvedor Frontend Junior</h4>
     <li>Node.js ou PHP</li>
     <li>React ou Vue ou Angular, ou os três</li>
     <li>TypeScript</li>
@@ -40,16 +40,16 @@
     <li>Monetização de websites</li>
   </ul>
   
+  <h4>Nível 4 - Desenvolvedor Frontend Pleno</h4>
   <ul>
-    <h4>Nível 4 - Desenvolvedor Frontend Pleno</h4>
     <li>UX e UI</li>
     <li>Photoshop ou outro software de edição de imagem e de vídeo</li>
     <li>Figma ou outro relacionado</li>
     <li>Notion, Trello ou relacionado</li>
   </ul>
   
+  <h4>Nível 5 - Desenvolvedor Frontend Sênior</h4>
   <ul>
-    <h4>Nível 5 - Desenvolvedor Frontend Sênior</h4>
     <li>Domínio avançado de SVGs</li>
     <li>Domínio avançado de design patterns (no plural mesmo)</li>
     <li>Backend APIs como Firebase ou Backendless</li>
@@ -59,8 +59,8 @@
     <li>Ferramentas de segurança como: DOMPurify ou jsxss</li>
   </ul>
   
+  <h4>Nível 6 - Desenvolvedor Frontend Sênior Avançado</h4>
   <ul>
-    <h4>Nível 6 - Desenvolvedor Frontend Sênior Avançado</h4>
     <li>Criação de plugins, bibliotecas e/ou frameworks avançados</li>
     <li>Conhecimento de básico à avançado em backend</li>
     <li>etc... (o céu é o limite)</li>
@@ -71,9 +71,9 @@
 
 <h2>Backend</h2>
 <p>Depois de ter feito ao menos o nível 1 em Frontend, agora vc tem o suficiente para iniciar o Backend</p>
-<kbd>
+<article align="right">
+  <h4>Nível 1 - Básico</h4>
   <ul>
-    <h4>Nível 1 - Básico</h4>
     <li>Escolha uma linguagem de programação, e pratique bastante, até perceber que já domina o suficiente</li>
     <li>Utilize bastante o exercism</li>
     <li>Orientação à objetos é primordial</li>
@@ -84,8 +84,8 @@
     <li>Banco de dados não relacinais como MongoDB</li>
   </ul>
   
+  <h4>Nível 2 - Desenvolvedor Backend Júnior</h4>
   <ul>
-    <h4>Nível 2 - Desenvolvedor Backend Júnior</h4>
     <li>IDE (mesmo que vc não utilize uma)</li>
     <li>Códigos de Status (status code), como: 404, 403, 500, etc...</li>
     <li>Protocolos... TCP, IP, UDP, etc...</li>
@@ -95,8 +95,8 @@
     <li>Desenvolvimento de APIs</li>
   </ul>
   
+  <h4>Nível 3 - Desenvolvedor Backend Pleno</h4>
   <ul>
-    <h4>Nível 3 - Desenvolvedor Backend Pleno</h4>
     <li>Organização dos projetos</li>
     <li>Ter conhecimentos avançados em banco de dados</li>
     <li>Ter bastante tempo de experiência e resolução de bugs no Backend</li>
@@ -107,8 +107,8 @@
     <li>Search Engines</li>
   </ul>
   
+  <h4>Nível 4 - Desenvolvedor Backend Sênior</h4>
   <ul>
-    <h4>Nível 4 - Desenvolvedor Backend Sênior</h4>
     <li>Penetration Testing</li>
     <li>Hardware</li>
     <li>Conhecimento de básico à avançado em frontend</li>
@@ -118,12 +118,12 @@
     <li>Message Brokers</li>
   </ul>
   
+  <h4>Nível 5 - Desenvolvedor Backend Sênior Avançado</h4>
   <ul>
-    <h4>Nível 5 - Desenvolvedor Backend Sênior Avançado</h4>
     <li>Mais de 10 anos de experiência</li>
     <li>O céu é o limite</li>
   </ul>
-</kbd>
+</article>
 
 <hr>
 
